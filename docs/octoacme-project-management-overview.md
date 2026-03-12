@@ -18,7 +18,15 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: leads user experience design and validates usability.
+- Release Manager: owns the end-to-end release process and go/no-go decisions.
+- DevOps Engineer: maintains CI/CD pipelines and deployment infrastructure.
+- Security Lead: owns security reviews, risk register, and incident response.
+- Support Specialist: triages user issues post-release and feeds back into the product cycle.
 - Stakeholders: provide inputs and approvals.
+
+For full role descriptions and interaction notes, see [Roles & Personas](octoacme-roles-and-personas.md).  
+For a RACI-style view of who owns which activities, see [Role Responsibility Matrix](role-responsibility-matrix.md).
 
 ## Key Artifacts
 - Project Charter / One-pager

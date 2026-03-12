@@ -30,7 +30,14 @@ These docs are the single entry-point for process guidance used across OctoAcme 
 - Product Manager (PdM)
 - Developers
 - QA / Testing
+- UX Designer
+- Release Manager
+- DevOps Engineer
+- Security Lead
+- Support Specialist
 - Stakeholders / Sponsors
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full descriptions and interaction notes.
 
 ## Docs Index
 - [Project Management Overview](octoacme-project-management-overview.md)
@@ -41,6 +48,9 @@ These docs are the single entry-point for process guidance used across OctoAcme 
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Role Responsibility Matrix](role-responsibility-matrix.md)
+- [Release Manager Checklist](release-manager-checklist.md)
+- [Handoff Checklists](handoff-checklists.md)
 
 ## How to use these docs
 - Use this README as the single source of entry for process guidance.
